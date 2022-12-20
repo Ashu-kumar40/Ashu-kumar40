@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashu Kumar
 - 👀 I’m interested in Learning new things and I'm a self taught front end web developer and graphic designer
-- 🌱 I’m currently learning Web Development, Graphic Designing
+- 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on Frontend web development projects
 - 📫 How to reach me: E-mail- ashukumar8472@gmail.com
 
