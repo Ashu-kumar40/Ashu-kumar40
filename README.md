@@ -1,3 +1,4 @@
+![Twitter banner](https://user-images.githubusercontent.com/95637428/210195123-7d6c9230-2866-4ee8-b93e-898722e58b30.jpg)
 - 👋 Hi, I’m Ashu Kumar
 - 👀 I’m interested in Learning new things and I'm a self taught front end web developer and graphic designer
 - 🌱 I’m currently learning React.js
